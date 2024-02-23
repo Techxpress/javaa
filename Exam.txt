@@ -1,0 +1,10 @@
+(1) //////Practical_1 (Print Hello World)////////////////////
+class AbhishekhPrasad {
+public static void main(String args[])
+{
+System.out.println("Hello, World");
+(2) //////Practical_2 (Print Your Name)////////////////////
+class College {
+public static void main(String args[])
+{
+System.out.println("Abhishekh Prasad");
